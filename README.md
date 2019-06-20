@@ -9,4 +9,5 @@ Run the following commands in the Command Line.
 Application will be opened in the browser at http://localhost:3000/
 
 In the Search bar, if the user searches any financial Institution the list of matching Institutions are shown.
+User can scroll over the Institution list using up and down arrows.
 If any financial Institution is selected, detail container is shown for the selected.
